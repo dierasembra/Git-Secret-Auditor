@@ -1,0 +1,6 @@
+{
+  "AWS Access Key": "AKIA[0-9A-Z]{16}",
+  "Generic API Key": "(?:api[_-]?key|apikey|secret|token)[\\\"'\\\\s:=]{1,5}[A-Za-z0-9\\\\-_=]{16,}",
+  "Private RSA Key": "-----BEGIN RSA PRIVATE KEY-----",
+  "Slack Token": "xox[baprs]-[A-Za-z0-9-]+"
+}
